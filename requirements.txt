@@ -1,4 +1,9 @@
-flask
-pymongo
-redis
-python-dotenv
+Flask==2.3.3
+python-dotenv==1.0.1
+pymongo==4.7.1
+redis==5.0.4
+PyJWT==2.8.0
+flasgger==0.9.7.1
+prometheus-flask-exporter==0.22.4
+prometheus_client==0.20.0
+
